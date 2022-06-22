@@ -78,7 +78,7 @@ p{
 
 /* Contact */
 main {
-	margin-top: 78px;
+	margin-top: 50px;
 	margin-bottom: 78px;
 }
 main p{
@@ -199,8 +199,21 @@ padding-right: 30px;
 	position: fixed;
 }
 
-/*
+
 @media(max-width: 858px){
+
+/* Background phone */
+
+.flower img{
+	margin: 30% -45%;
+	width: 90%;
+	height: auto;
+	opacity: 0.04;
+	z-index: -1;
+	position: fixed;
+}
+/* Hlavná stránka phone */
+
 .uvod p{
 	max-width: 60%;
 	display: block;
@@ -231,5 +244,134 @@ padding-right: 30px;
 	width: 300px;
 	height: auto;
 }
+
+/* O technike phone */
+
+.otechnike .otechnike_text{
+	padding: 0;
+	margin-left: 10px;
+	margin-right: 10px;
 }
-*/
+
+.otechnike .certifikat img{
+	width: 80%;
+	height: auto;
+}
+
+/* Kontakt phone */
+
+p{
+	margin-top: 60px;
+}
+
+main {
+	margin-top: 50px;
+	margin-bottom: 78px;
+}
+main p{
+	color: white;
+	font-family: 'Poppins', sans-serif;
+	display: block;
+	text-align: center;
+	font-size: 30px;
+	margin-bottom: 50px;
+}
+
+.kontaktpod p {
+	color: white;
+	font-size: 30px;
+	padding-top: 30px;
+	padding-bottom: 20px;
+	font-family: 'Poppins', sans-serif;
+}
+input[type=text] {
+	width: 80%;
+	margin-top: 15px;
+	padding-top: 10px; 
+	padding-left: 5px;
+	padding-bottom: 10px;
+	margin-left: auto;
+	margin-right: auto;
+  	display: block;
+	border-width: 1px;
+	border-style: solid;
+	border-color: whitesmoke;
+  	border-radius: 3px;
+	font-family: 'Poppins', sans-serif;
+}
+
+textarea {
+  	width: 80%;
+	padding-top: 10px; 
+	padding-left: 5px;
+	padding-bottom: 10px;
+	margin-top: 15px;
+	margin-left: auto;
+	margin-right: auto;
+	border-width: 1px;
+	border-style: solid;
+	border-color: whitesmoke;
+  	display: block;
+  	border-radius: 3px;
+	font-family: 'Poppins', sans-serif;
+	font-size: 13.3333px;
+
+}
+
+button[type=submit] {
+	background-color: #4CAF50;
+	color: white;
+	padding: 14px 20px;
+	margin-top: 30px;
+	border: none;
+	border-radius: 3px;
+	cursor: pointer;
+}
+
+button:hover {
+	background: #21bd27;
+	color: white;
+	transition: 1.2s;  
+}
+
+.line1 {
+	height: 1px;
+	background: white;
+	margin: 2rem 20rem;
+	margin-bottom: 50px;
+}
+
+.kontaktpod{
+
+}
+.kontakt_container {
+	font-size: 20px;
+	line-height: 90px;
+	color: white;
+	padding: 0;
+}
+
+.kontakt1 {
+	display: inline-block;
+	text-align: left;
+	margin-right: 30px;
+}
+
+.kontakt2 {
+	display: inline-block;
+	text-align: left;
+}
+
+td {
+	padding-right: 30px;
+}
+
+.co {
+	color: white;
+	font-weight: bold;
+	font-size: 16px;
+}
+.po {
+	font-size: 18px;
+}
+}
