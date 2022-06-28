@@ -24,15 +24,16 @@ p{
 	font-family: 'Poppins', sans-serif;
 	display: block;
 	text-align: center;
-	font-size: 50px;
+	font-size: 40px;
 	margin-bottom: 40px;}
+
 .uvod p{
 	color: white;
 	font-family: 'Poppins', sans-serif;
 	display: block;
 	text-align: justify;
-	font-size: 28px;
-	margin: 20px 200px;
+	font-size: 27px;
+	margin: 20px 400px;
 	text-indent: 50px;
 
 }
@@ -69,32 +70,39 @@ p{
 	margin-bottom: 50px;
 }
 .otechnike p{
-	font-size: 50px;
+	font-size: 40px;
 }
 
 /*toto je odžub 4 odseky 4 divy*/
 .otechnike .otechnike_text{
 	color: white;
-	font-size: 28px;
-	padding-right: 300px;
-	padding-left: 300px;
+	font-size: 27px;
+	padding-right: 400px;
+	padding-left: 400px;
 	text-align: justify;
 	font-family: 'Poppins', sans-serif;
 	text-indent: 50px;
 }
+
+.otechnike .otechnike_text a{
+	color: white;
+	font-size: 27px;
+	text-align: justify;
+	font-family: 'Poppins', sans-serif;
+}
 .otechnike .otechnike_textbez{
 	color: white;
-	font-size: 28px;
-	padding-right: 300px;
-	padding-left: 300px;
+	font-size: 27px;
+	padding-right: 400px;
+	padding-left: 400px;
 	text-align: justify;
 	font-family: 'Poppins', sans-serif;
 }
 .otechnike .otechnike_text1{
 	color: white;
-	font-size: 28px;
-	padding-right: 300px;
-	padding-left: 300px;
+	font-size: 27px;
+	padding-right: 400px;
+	padding-left: 400px;
 	text-align: justify;
 	font-family: 'Poppins', sans-serif;
 	text-indent: 50px;
@@ -102,10 +110,10 @@ p{
 
 .otechnike .otechnike_text2{
 	color: white;
-	font-size: 28px;
-	padding-right: 300px;
+	font-size: 27px;
+	padding-right: 400px;
+	padding-left: 400px;
 	padding-bottom: 80px;
-	padding-left: 300px;
 	text-align: justify;
 	font-family: 'Poppins', sans-serif;
 	text-indent: 50px;
@@ -130,7 +138,7 @@ main p{
 	font-family: 'Poppins', sans-serif;
 	display: block;
 	text-align: center;
-	font-size: 30px;
+	font-size: 40px;
 	margin-bottom: 50px;
 }
 
@@ -158,7 +166,7 @@ input[type=text] {
 }
 
 textarea {
-  width: 40%;
+  	width: 40%;
 	padding-top: 10px; 
 	padding-left: 5px;
 	padding-bottom: 10px;
@@ -195,7 +203,7 @@ button:hover {
 	height: 1px;
 	background: white;
 	margin: 2rem 20rem;
-	margin-bottom: 50px;
+	margin-bottom: 100px;
 }
 
 .kontaktpod{
@@ -206,7 +214,8 @@ button:hover {
 	margin-top: -50px;
 	margin-bottom: 50px;
 	padding: 50px;
-	font-size: 20px;
+	padding-bottom: 0px;
+	font-size: 27px;
 	line-height: 90px;
 	color: white;
 }
@@ -223,7 +232,7 @@ button:hover {
 }
 
 td {
-padding-right: 30px;
+	padding-right: 30px;
 }
 
 .co {
