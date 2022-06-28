@@ -1,0 +1,30 @@
+***********************************************
+*    ____  ____  _  _  __     __    ___       *
+*   (    \(  __)/ )( \(  )   /  \  / __)      *   
+*    ) D ( ) _) \ \/ // (_/\(  O )( (_ \      *
+*   (____/(____) \__/ \____/ \__/  \___/      *
+*                                             *
+*       Webová aplikácia pre výpočet          *
+*  _  _   __   _  _    ____   __   ____   __  *
+* / )( \ / _\ / )( \  (    \ / _\ (___ \ /  \ *
+* ) __ (/    \\ \/ /   ) D (/    \ / __/(  0 )*
+* \_)(_/\_/\_/ \__/   (____/\_/\_/(____) \__/ *
+*                                             *
+***********************************************
+
+20.03.2022  Prvý deň DevLogu
+27.05.2022  Nie, dnes je prvý deň dev logu, aplikácia by mala
+            byť schopná vypočítavať hmotnosť, vyváženie a letové
+            výkony lietadla DA-20 na základe poskytnutých údajov
+            mali by sme naprogramovať nejaké okná pre vkladanie 
+            informácií a naučiť sa robiť jednoduché operácie
+            a výpočty v JS
+            Vytvorenie podsúboru testing kde sa budú vykonávať
+            testovacie pokusy kódu namiesto hlavnej zložky
+            Dneska sme stihli vytvoriť podsúbor testing, input
+            polia, základnú tabuľku a začali sme sa zapodievať 
+            problematikou získavania informácií do js. Všetko je
+            pripravené a naša cesta za úspešným dokončením ba-
+            kalárskej práce môže započať
+28.05.2022  Dnes je na pláne zopakovať si základy js a pokračovať
+            v            

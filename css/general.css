@@ -19,13 +19,22 @@ p{
 }
 
 /* Obsah */
-.uvod p{
+.uvodpred{
 	color: white;
 	font-family: 'Poppins', sans-serif;
 	display: block;
 	text-align: center;
+	font-size: 50px;
+	margin-bottom: 40px;}
+.uvod p{
+	color: white;
+	font-family: 'Poppins', sans-serif;
+	display: block;
+	text-align: justify;
 	font-size: 28px;
 	margin: 20px 200px;
+	text-indent: 50px;
+
 }
 .content {
 	display: flex;
@@ -60,22 +69,57 @@ p{
 	margin-bottom: 50px;
 }
 .otechnike p{
+	font-size: 50px;
 }
+
+/*toto je odžub 4 odseky 4 divy*/
 .otechnike .otechnike_text{
 	color: white;
-	font-size: 21px;
-	padding-top: 50px;
-	padding-bottom: 80px;
+	font-size: 28px;
 	padding-right: 300px;
 	padding-left: 300px;
 	text-align: justify;
 	font-family: 'Poppins', sans-serif;
+	text-indent: 50px;
+}
+.otechnike .otechnike_textbez{
+	color: white;
+	font-size: 28px;
+	padding-right: 300px;
+	padding-left: 300px;
+	text-align: justify;
+	font-family: 'Poppins', sans-serif;
+}
+.otechnike .otechnike_text1{
+	color: white;
+	font-size: 28px;
+	padding-right: 300px;
+	padding-left: 300px;
+	text-align: justify;
+	font-family: 'Poppins', sans-serif;
+	text-indent: 50px;
+}
+
+.otechnike .otechnike_text2{
+	color: white;
+	font-size: 28px;
+	padding-right: 300px;
+	padding-bottom: 80px;
+	padding-left: 300px;
+	text-align: justify;
+	font-family: 'Poppins', sans-serif;
+	text-indent: 50px;
 }
 
 .otechnike .certifikat img{
 	margin: 50px;
 }
 
+.cvicenie .fotografie img{
+	height: 200px;
+	width: auto;
+	padding: 2px;
+}
 /* Contact */
 main {
 	margin-top: 50px;
@@ -228,8 +272,6 @@ padding-right: 30px;
 	margin-left: -25%;
 }  
 
-.fotka {
-}
 
 .textHlavna {
 	padding: 10px;
@@ -372,6 +414,6 @@ td {
 	font-size: 16px;
 }
 .po {
-	font-size: 18px;
-}
+	font-size: 18px;}
+
 }
