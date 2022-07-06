@@ -268,12 +268,11 @@ td {
 /* Hlavná stránka phone */
 
 .uvod p{
-	max-width: 60%;
+	max-width: 90%;
 	display: block;
-	text-align: center;
+	text-align: justify;
 	margin: auto;
 	font-size: x-large;
-	font-style: italic;
 }
 
 .content {
@@ -302,6 +301,27 @@ td {
 	padding: 0;
 	margin-left: 10px;
 	margin-right: 10px;
+	padding: 20px;
+}
+
+.otechnike .otechnike_text1{
+	padding: 0;
+	margin-left: 10px;
+	margin-right: 10px;
+	padding: 20px;
+}
+.otechnike .otechnike_text2{
+	padding: 0;
+	margin-left: 10px;
+	margin-right: 10px;
+	padding: 20px;
+}
+.otechnike .otechnike_textbez{
+	padding: 0;
+	margin-left: 10px;
+	margin-right: 10px;
+	padding: 20px;
+	text-align: left;
 }
 
 .otechnike .certifikat img{
@@ -313,6 +333,7 @@ td {
 
 p{
 	margin-top: 60px;
+	padding: 2px;
 }
 
 main {
