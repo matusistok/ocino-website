@@ -24,7 +24,7 @@ p{
 	font-family: 'Poppins', sans-serif;
 	display: block;
 	text-align: center;
-	font-size: 40px;
+	font-size: 35px;
 	margin-bottom: 40px;}
 
 .uvod p{
@@ -68,9 +68,11 @@ p{
 .otechnike{
 	margin-bottom: 30px;
 	margin-bottom: 50px;
+	margin-left: 20px;
+	margin-right: 20px;
 }
 .otechnike p{
-	font-size: 40px;
+	font-size: 35px;
 }
 
 /*toto je odžub 4 odseky 4 divy*/
@@ -240,9 +242,7 @@ td {
 	font-weight: bold;
 }
 
-/* testing */
-.flower {
-}
+
 .flower img{
 	margin: -10% -40%;
 	width: 80%;
@@ -251,6 +251,8 @@ td {
 	z-index: -1;
 	position: fixed;
 }
+
+/* testing */
 
 
 @media(max-width: 858px){
