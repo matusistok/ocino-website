@@ -1,0 +1,464 @@
+body{
+	background-color: #e4b14ad5;
+	text-align: center;
+}
+p{
+	color: white;
+	font-family: 'Poppins', sans-serif;
+	display: block;
+	text-align: center;
+	font-size: 30px;
+}
+/*falcon*/
+
+.fcn a{
+	color: transparent;
+}
+.fcn a:hover{
+	color: transparent;
+}
+
+/* Obsah */
+.uvodpred{
+	color: white;
+	font-family: 'Poppins', sans-serif;
+	display: block;
+	text-align: center;
+	font-size: 35px;
+	margin-bottom: 40px;}
+
+.uvod p{
+	color: white;
+	font-family: 'Poppins', sans-serif;
+	display: block;
+	text-align: justify;
+	font-size: 27px;
+	margin: 20px 400px;
+	text-indent: 50px;
+
+}
+.content {
+	display: flex;
+	margin: 50px;
+	margin-bottom: 88.4px;
+	padding-left: 20%;
+	padding-right: 20%;
+}
+.fotka {
+	display: inline-block;
+	float: left;
+
+}
+.textHlavna p{
+	color: white;
+	font-family: 'Poppins', sans-serif;
+	text-align: center;
+	font-size: 28px;
+	display: inline-block;
+	float: left;
+	width: 400px;
+	font-style: italic;
+}
+.content .fotka img {
+	width: 500px;
+	height: auto;
+}
+
+/* O technike */
+.otechnike{
+	margin-bottom: 30px;
+	margin-bottom: 50px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+.otechnike p{
+	font-size: 35px;
+}
+
+/*toto je odžub 4 odseky 4 divy*/
+.otechnike .otechnike_text{
+	color: white;
+	font-size: 27px;
+	padding-right: 400px;
+	padding-left: 400px;
+	text-align: justify;
+	font-family: 'Poppins', sans-serif;
+	text-indent: 50px;
+}
+
+.otechnike .otechnike_text a{
+	color: white;
+	font-size: 27px;
+	text-align: justify;
+	font-family: 'Poppins', sans-serif;
+}
+.otechnike .otechnike_textbez{
+	color: white;
+	font-size: 27px;
+	padding-right: 400px;
+	padding-left: 400px;
+	text-align: justify;
+	font-family: 'Poppins', sans-serif;
+}
+.otechnike .otechnike_text1{
+	color: white;
+	font-size: 27px;
+	padding-right: 400px;
+	padding-left: 400px;
+	text-align: justify;
+	font-family: 'Poppins', sans-serif;
+	text-indent: 50px;
+}
+
+.otechnike .otechnike_text2{
+	color: white;
+	font-size: 27px;
+	padding-right: 400px;
+	padding-left: 400px;
+	padding-bottom: 80px;
+	text-align: justify;
+	font-family: 'Poppins', sans-serif;
+	text-indent: 50px;
+}
+
+.otechnike .certifikat img{
+	margin: 50px;
+}
+
+.cvicenie .fotografie img{
+	height: 200px;
+	width: auto;
+	padding: 2px;
+}
+/* Contact */
+main {
+	margin-top: 50px;
+	margin-bottom: 78px;
+}
+main p{
+	color: white;
+	font-family: 'Poppins', sans-serif;
+	display: block;
+	text-align: center;
+	font-size: 40px;
+	margin-bottom: 50px;
+}
+
+.kontaktpod p {
+	color: white;
+	font-size: 30px;
+	padding-top: 30px;
+	padding-bottom: 20px;
+	font-family: 'Poppins', sans-serif;
+}
+input[type=text] {
+	width: 40%;
+	margin-top: 15px;
+	padding-top: 10px; 
+	padding-left: 5px;
+	padding-bottom: 10px;
+	margin-left: auto;
+	margin-right: auto;
+  	display: block;
+	border-width: 1px;
+	border-style: solid;
+	border-color: whitesmoke;
+  	border-radius: 3px;
+	font-family: 'Poppins', sans-serif;
+}
+
+textarea {
+  	width: 40%;
+	padding-top: 10px; 
+	padding-left: 5px;
+	padding-bottom: 10px;
+	margin-top: 15px;
+	margin-left: auto;
+	margin-right: auto;
+	border-width: 1px;
+	border-style: solid;
+	border-color: whitesmoke;
+  	display: block;
+  	border-radius: 3px;
+	font-family: 'Poppins', sans-serif;
+	font-size: 13.3333px;
+
+}
+
+button[type=submit] {
+	background-color: #4CAF50;
+	color: white;
+	padding: 14px 20px;
+	margin-top: 30px;
+	border: none;
+	border-radius: 3px;
+	cursor: pointer;
+}
+
+button:hover {
+	background: #21bd27;
+	color: white;
+	transition: 1.2s;  
+}
+
+.line1 {
+	height: 1px;
+	background: white;
+	margin: 2rem 20rem;
+	margin-bottom: 100px;
+}
+
+.kontaktpod{
+
+}
+.kontakt_container {
+	margin: 20px;
+	margin-top: -50px;
+	margin-bottom: 50px;
+	padding: 50px;
+	padding-bottom: 0px;
+	font-size: 27px;
+	line-height: 90px;
+	color: white;
+}
+
+.kontakt1 {
+	display: inline-block;
+	text-align: left;
+	margin-right: 30px;
+}
+
+.kontakt2 {
+	display: inline-block;
+	text-align: left;
+}
+
+td {
+	padding-right: 30px;
+}
+
+.co {
+	color: white;
+	font-weight: bold;
+}
+
+.po a{
+	color: white;
+	text-decoration: underline;
+
+}
+.po a:hover{
+	color: rgb(78, 78, 233);
+	transition: 0.5s;
+}
+
+.flower img{
+	margin: -10% -40%;
+	width: 80%;
+	height: auto;
+	opacity: 0.04;
+	z-index: -1;
+	position: fixed;
+}
+
+/* testing */
+
+
+@media(max-width: 858px){
+
+/* Background phone */
+
+.flower img{
+	margin: 30% -45%;
+	width: 90%;
+	height: auto;
+	opacity: 0.04;
+	z-index: -1;
+	position: fixed;
+}
+/* Hlavná stránka phone */
+
+.uvod p{
+	max-width: 90%;
+	display: block;
+	text-align: justify;
+	margin: auto;
+	font-size: x-large;
+}
+
+.content {
+	display: grid;
+	margin-left: -25%;
+}  
+
+
+.textHlavna {
+	padding: 10px;
+}
+
+.textHlavna p{
+	font-style: italic;
+	font-size: x-large;
+}
+
+.content .fotka img {
+	width: 300px;
+	height: auto;
+}
+
+/* O technike phone */
+
+.otechnike .otechnike_text{
+	padding: 0;
+	margin-left: 10px;
+	margin-right: 10px;
+	padding: 20px;
+}
+
+.otechnike .otechnike_text1{
+	padding: 0;
+	margin-left: 10px;
+	margin-right: 10px;
+	padding: 20px;
+}
+.otechnike .otechnike_text2{
+	padding: 0;
+	margin-left: 10px;
+	margin-right: 10px;
+	padding: 20px;
+}
+.otechnike .otechnike_textbez{
+	padding: 0;
+	margin-left: 10px;
+	margin-right: 10px;
+	padding: 20px;
+	text-align: left;
+}
+
+.otechnike .certifikat img{
+	width: 80%;
+	height: auto;
+}
+
+/* Kontakt phone */
+
+p{
+	margin-top: 60px;
+	padding: 2px;
+}
+
+main {
+	margin-top: 50px;
+	margin-bottom: 78px;
+}
+main p{
+	color: white;
+	font-family: 'Poppins', sans-serif;
+	display: block;
+	text-align: center;
+	font-size: 30px;
+	margin-bottom: 50px;
+}
+
+.kontaktpod p {
+	color: white;
+	font-size: 30px;
+	padding-top: 30px;
+	padding-bottom: 20px;
+	font-family: 'Poppins', sans-serif;
+}
+input[type=text] {
+	width: 80%;
+	margin-top: 15px;
+	padding-top: 10px; 
+	padding-left: 5px;
+	padding-bottom: 10px;
+	margin-left: auto;
+	margin-right: auto;
+  	display: block;
+	border-width: 1px;
+	border-style: solid;
+	border-color: whitesmoke;
+  	border-radius: 3px;
+	font-family: 'Poppins', sans-serif;
+}
+
+textarea {
+  	width: 80%;
+	padding-top: 10px; 
+	padding-left: 5px;
+	padding-bottom: 10px;
+	margin-top: 15px;
+	margin-left: auto;
+	margin-right: auto;
+	border-width: 1px;
+	border-style: solid;
+	border-color: whitesmoke;
+  	display: block;
+  	border-radius: 3px;
+	font-family: 'Poppins', sans-serif;
+	font-size: 13.3333px;
+
+}
+
+button[type=submit] {
+	background-color: #4CAF50;
+	color: white;
+	padding: 14px 20px;
+	margin-top: 30px;
+	border: none;
+	border-radius: 3px;
+	cursor: pointer;
+}
+
+button:hover {
+	background: #21bd27;
+	color: white;
+	transition: 1.2s;  
+}
+
+.line1 {
+	height: 1px;
+	background: white;
+	margin: 2rem 20rem;
+	margin-bottom: 50px;
+}
+
+.kontaktpod{
+
+}
+.kontakt_container {
+	font-size: 20px;
+	line-height: 90px;
+	color: white;
+	padding: 0;
+}
+
+.kontakt1 {
+	display: inline-block;
+	text-align: left;
+	margin-right: 30px;
+}
+
+.kontakt2 {
+	display: inline-block;
+	text-align: left;
+}
+
+td {
+	padding-right: 0px;
+}
+
+.co {
+	color: white;
+	font-weight: bold;
+	font-size: 16px;
+
+}
+.po {
+	font-size: 18px;
+	line-height:normal;
+	padding-left: 30px;
+}
+
+}
