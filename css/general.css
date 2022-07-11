@@ -242,6 +242,15 @@ td {
 	font-weight: bold;
 }
 
+.po a{
+	color: white;
+	text-decoration: underline;
+
+}
+.po a:hover{
+	color: rgb(78, 78, 233);
+	transition: 0.5s;
+}
 
 .flower img{
 	margin: -10% -40%;
@@ -437,15 +446,19 @@ button:hover {
 }
 
 td {
-	padding-right: 30px;
+	padding-right: 0px;
 }
 
 .co {
 	color: white;
 	font-weight: bold;
 	font-size: 16px;
+
 }
 .po {
-	font-size: 18px;}
+	font-size: 18px;
+	line-height:normal;
+	padding-left: 30px;
+}
 
 }
