@@ -235,6 +235,7 @@ button:hover {
 
 .kontakt2 img{
 	height: 400px;
+	width: auto;
 	border-radius: 3px;
 }
 
