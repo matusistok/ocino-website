@@ -233,6 +233,12 @@ button:hover {
 	text-align: left;
 }
 
+.kontakt2 img{
+	height: 400px;
+	width: auto;
+	border-radius: 3px;
+}
+
 td {
 	padding-right: 30px;
 }
@@ -444,6 +450,13 @@ button:hover {
 	display: inline-block;
 	text-align: left;
 }
+
+.kontakt2 img{
+	height: 300px;
+	width: auto;
+	border-radius: 3px;
+}
+
 
 td {
 	padding-right: 0px;
